@@ -1,1 +1,2 @@
 c:\users\farrukh ahmed\documents\visual studio 2013\Projects\STACKTaskByTPS\STACKTaskByTPS\bin\Debug\STACKTaskByTPS.exe.config
+C:\GIT ROOT\First_Repository\Source\STACKTaskByTPS\bin\Debug\STACKTaskByTPS.exe.config
